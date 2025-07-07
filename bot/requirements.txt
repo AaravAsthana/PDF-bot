@@ -1,0 +1,8 @@
+flask
+pywa[flask]
+langchain
+unstructured      # or pdfplumber + pymupdf
+chromadb
+openai
+redis
+python-dotenv
